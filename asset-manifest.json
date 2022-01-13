@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funtube/static/css/main.d41fd7ab.css",
+    "main.js": "/funtube/static/js/main.88f72487.js",
+    "index.html": "/funtube/index.html",
+    "main.d41fd7ab.css.map": "/funtube/static/css/main.d41fd7ab.css.map",
+    "main.88f72487.js.map": "/funtube/static/js/main.88f72487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41fd7ab.css",
+    "static/js/main.88f72487.js"
+  ]
+}
